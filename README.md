@@ -1,7 +1,8 @@
 # Zacatky
-##[Zadání 2](https://github.com/DominikSefr1/JavaCvika/blob/Zacatky/Treti/src/Zadani/ulohy02.pdf)
-##[Zadání 3](https://github.com/DominikSefr1/JavaCvika/blob/Zacatky/Treti/src/Zadani/ulohy03.pdf)
-##[Zadání 4](https://github.com/DominikSefr1/JavaCvika/blob/Zacatky/Treti/src/Zadani/ulohy04.pdf)
+[Java Cvika](https://github.com/DominikSefr1/JavaCvika)
+[Zadání 2](https://github.com/DominikSefr1/JavaCvika/blob/Zacatky/Treti/src/Zadani/ulohy02.pdf)
+[Zadání 3](https://github.com/DominikSefr1/JavaCvika/blob/Zacatky/Treti/src/Zadani/ulohy03.pdf)
+[Zadání 4](https://github.com/DominikSefr1/JavaCvika/blob/Zacatky/Treti/src/Zadani/ulohy04.pdf)
 [Alkohol](https://github.com/DominikSefr1/JavaCvika/blob/Zacatky/Treti/src/Alkohol.java)
 [Cena](https://github.com/DominikSefr1/JavaCvika/blob/Zacatky/Treti/src/Cena.java)
 [Hodiny](https://github.com/DominikSefr1/JavaCvika/blob/Zacatky/Treti/src/Hodiny.java)
