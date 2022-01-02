@@ -9,7 +9,7 @@ public class TabulkaPozice {
         int finalrow;
         int finalcol;
         finalrow = (int) Math.ceil((double) pos/ (double) cols);
-        finalcol = pos - ((pos/cols)*cols);
+        finalcol = pos - (finalrow-1)*cols;
         System.out.printf("%s %s", finalrow, finalcol);
 
     }
